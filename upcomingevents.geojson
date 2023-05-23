@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savini Comics Hosts:June Community Day",
+        "host": "7Pidgeys",
+        "location": "Savini Comics, Logansport, Indiana",
+        "MM/DD/YY": "06/10/2023"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.36471797886053,
+          40.754433775553906
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    }
+  ]
+}
