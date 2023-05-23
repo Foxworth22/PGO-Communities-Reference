@@ -1,1 +1,5139 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.002307,
+          36.50135
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Silph Road Southwest Leadership",
+        "description": "A Server for Silph Road Southwest Leadership. If you would like to join TSR leadership, apply here https://goo.gl/forms/eJjh7ZZdUbJVGDbX2",
+        "image": "https://cdn.discordapp.com/icons/196772735907528704/c15ae4b057ae6b2072b584931024f606.png?size=1024",
+        "size": 55,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 0,
+        "accepting_invite_requests": 0,
+        "communityId": 16,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dd48a",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97008896,
+          40.67387645
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "NYC's Instinct Trainers",
+        "description": "Home of NYC's Pokémon GO Instinct Trainers",
+        "image": "https://cdn.discordapp.com/icons/209386254901575683/08eb79c4b6a43eca8dccdd9004f3f57d.png?size=1024",
+        "size": 162,
+        "valor": 0,
+        "instinct": 1,
+        "mystic": 0,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 17,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dd5fb",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22096661,
+          41.66493059
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Michiana PoGo",
+        "description": "Join Michiana's Pokémon Go group, covering South Bend & Mishawaka. Find us every month during the Community Day meet-up at the IUSB campus in South Bend. Check out our discord for more details about meet-ups, PvP tournaments and more!",
+        "image": "https://cdn.discordapp.com/icons/328357435444035584/0c80f2ede1e393d8e5e2e4aa7765a192.png?size=1024",
+        "size": 2031,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 20,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dd740",
+        "slug_url": "MichianaPoGo",
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977898,
+          40.783991
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "UWS Silph Road",
+        "description": "UWS Silph Road is a Discord chat server with 224 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://assets.thesilphroad.com/img/icons/Pokeball.png",
+        "size": 224,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 22,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dd8fc",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.05837,
+          44.37562
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "TSR Pacific Coast Leadership",
+        "description": "Server for Pacific Coast Leadership on the Silph Road. If you're interested in applying for leadership, check out this link: https://sites.google.com/view/pacificcoastguides",
+        "image": "https://cdn.discordapp.com/icons/393225794077327360/9f1913447bf2b28024e4ce4d64e022bf.png?size=1024",
+        "size": 15,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 0,
+        "communityId": 23,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dd987",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.157961,
+          39.768609
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go: Indianapolis",
+        "description": "The main Indianapolis Discord group. Raids, Community Day, First Saturday events, meet ups, other misc. events, and more! Come be a part of the premier Indy PoGo server!",
+        "image": "https://cdn.discordapp.com/icons/285849412154949632/f735bdfd26777a558b878da79a596161.png?size=1024",
+        "size": 6720,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 25,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dda4d",
+        "slug_url": "pogoindy",
+        "campfire_url": null,
+        "rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8405,
+          30.0567
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "The Silph Road - Buda",
+        "description": "A server to help trainers that are in the Hays County area.",
+        "image": "https://assets.thesilphroad.com/img/icons/Pokeball.png",
+        "size": 52,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 26,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741ddab3",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.871059,
+          43.611178
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokéMontpellier",
+        "description": "PokéMontpellier is a Discord chat server with 1,087 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/270144640416612353/439894fcb81de7ea2d078e92f17bed33.png?size=1024",
+        "size": 1087,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 31,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741ddc5b",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.089771,
+          41.71154
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "BB Pokémon Go Raids",
+        "description": "Raid group for Bolingbrook, Woodridge, and South Naperville. https://discord.gg/PdQUtVc",
+        "image": "https://cdn.discordapp.com/icons/334172916910653440/fd9953be057dd01571cf97e1f0d2b476.png?size=1024",
+        "size": 1014,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 33,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741ddd21",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.918399,
+          33.738459
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo OC",
+        "description": "PoGo OC is a Discord chat server with 15,954 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/329697545708109835/b51f891f0709819c712bbe94a130e131.png?size=1024",
+        "size": 15954,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 40,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741ddfb8",
+        "slug_url": "PoGoOC",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPTE3ZmU1Yzk3LTk3NGMtNGFmYS1iMDUxLTE4M2FmM2ZkZDM1OSZpPXRydWU=",
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34965515,
+          51.64444188
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokemonGo Nederland",
+        "description": "PokemonGo Nederland is a Discord chat server with 389 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/262892203733549056/80b1e3fef2dbfa2c6b15f54f01f99084.png?size=1024",
+        "size": 389,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 41,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de01f",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73251,
+          52.37584
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO: Hannover",
+        "description": "Pokémon GO: Hannover is a Discord chat server with 1,772 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/263679233790967808/122e5b3da89cd3c314a65e51bffc795e.png?size=1024",
+        "size": 1772,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 42,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de093",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609955,
+          38.642006
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pogo Delmarva",
+        "description": "Pogo Delmarva is a Discord chat server with 968 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/339109180797353984/5047f8decf462085b5618712690b7118.png?size=1024",
+        "size": 968,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 43,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de0ec",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86904,
+          32.38028
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "pokemon go kilgore",
+        "description": "pokemon go kilgore is a Discord chat server with 193 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/348841081934446635/8222567249ee17afbc0b5520a2a0f4be.png?size=1024",
+        "size": 193,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 45,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de1ae",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.244,
+          28.566773
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "East Orlando Raid Chat",
+        "description": "East Orlando Raid Chat is a Discord chat server with 1,397 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/341419518016618496/443c1f366bbe1ed90302296ea1849e06.png?size=1024",
+        "size": 1397,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 48,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de2c4",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.102525,
+          49.272825
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "MVRD Events",
+        "description": "Dedicated to Community Day lure parties and weekend raid walks! ",
+        "image": "https://cdn.discordapp.com/icons/339333454128873472/3bc3f1285c1b2abb4f1b6161214cd4d4.png?size=1024",
+        "size": 4941,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 49,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de319",
+        "slug_url": "metrovanevents",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWMxYTEwNWQyLTYzYzAtNDIxNC04NWVkLWI0YjJiZjRmODBlZCZpPXRydWU=",
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7676754,
+          43.59723831
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Mt Pleasant Pokemon Go",
+        "description": "Mt Pleasant Pokemon Go is a Discord chat server with 1,001 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/343409573346017290/ed23e7029d7b87e14f470f60607a95db.png?size=1024",
+        "size": 1001,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 50,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de379",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.561821,
+          36.548435
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Tri-Cities Pokémon GO",
+        "description": "Tri-Cities Pokémon GO is a Discord chat server with 777 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/336318689995522048/55a706eafa286330afdc6968a4803fa8.png?size=1024",
+        "size": 777,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 52,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de431",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.263223,
+          38.960323
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "LFK POGO",
+        "description": "LFK POGO is a Discord chat server with 1,985 members.The community has hosted no local Silph League meetups yet and  is  not currently welcoming new members.",
+        "image": "https://cdn.discordapp.com/icons/265375731431899137/07351b539f020e93e25c59fadbc3ac9c.png?size=1024",
+        "size": 1985,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 0,
+        "communityId": 54,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de4fb",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0332827,
+          50.9422611
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go Aalst",
+        "description": "Pokémon Go Aalst is a Discord chat server with 809 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/342446889779724288/9e96952fb6640853feff704087fcea74.png?size=1024",
+        "size": 809,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 55,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de556",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0399,
+          51.0362
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "YYC Team Instinct",
+        "description": "YYC Team Instinct is a Discord chat server with 267 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/327543196253159425/ade44c3063077b6ced73012c27a48e29.png?size=1024",
+        "size": 267,
+        "valor": 0,
+        "instinct": 1,
+        "mystic": 0,
+        "min_player_level": 30,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 59,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de6af",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.350302,
+          33.596905
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Southside GO",
+        "description": "come for the raids, stay for the casino",
+        "image": "https://cdn.discordapp.com/icons/330208054857564160/0dfd3a963e100751484f7eaa9fb44787.png?size=1024",
+        "size": 517,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 61,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de764",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6294874,
+          35.1051521
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "ABQ Pokémon GO",
+        "description": "ABQ Pokémon GO is a Discord chat server with 4,087 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328569645608992779/58072f03fe2ac74738274c9f7e7a7d77.png?size=1024",
+        "size": 4087,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 62,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de7c1",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10582743,
+          49.27348275
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Vancouver Pokémon GO",
+        "description": "The Pokémon GO community for Vancouver, BC, Canada! Welcoming trainers from anywhere in the MVRD or in the world to chat about and play Pokémon GO together. Join raids, meet new friends, build a better pvp team, and more!",
+        "image": "https://cdn.discordapp.com/icons/352590460499263489/6e7396449af059fdc90f026206be8831.png?size=1024",
+        "size": 7978,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 63,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de81a",
+        "slug_url": "vancouverpokemongo",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.803238,
+          55.172303
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon GO Grande Prairie",
+        "description": "Pokemon GO Grande Prairie is a Discord chat server with 660 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/355457831706558464/251b4aa64986f88926e65bd033d6fb91.png?size=1024",
+        "size": 660,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 64,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de873",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9658527,
+          49.2396801
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Burnaby & New West Pokémon GO",
+        "description": "Burnaby & New West Pokémon GO is a Discord chat server with 3,515 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/352590210355298310/32eea5a1332eb0fd6faa2fdd0cb0e86c.png?size=1024",
+        "size": 3515,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 65,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de8ca",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3346,
+          50.6703
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Kamloops Pokemon Go",
+        "description": "Kamloops Pokemon Go is a Discord chat server with 1,086 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/342845677824507904/025b75cae76b907d393ad0d5c5309136.png?size=1024",
+        "size": 1086,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 66,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de924",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13824,
+          49.16634697
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Richmond Pokémon GO",
+        "description": "Richmond Pokémon GO is a Discord chat server with 1,757 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/352590404291657748/919b7f4aa9f12c67a61f306e1df6028d.png?size=1024",
+        "size": 1757,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 67,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de983",
+        "slug_url": "RichmondPogo",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWZiYzA5ZTg1LTFmNDAtNGEzYy1hMzhkLTA5N2NkODBiMDM3NyZpPXRydWU=",
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7865463,
+          32.442644
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go: Hood County",
+        "description": "Pokemon Go: Hood County is a Discord chat server with 506 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/341281339074674708/ee1eb7ebe56493eb3237aebae8cc3637.png?size=1024",
+        "size": 506,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 68,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741de9db",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8265057,
+          49.2691144
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Tri-Cities Raids",
+        "description": "Tri-Cities Raids is a Discord chat server with 1,283 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/352590380082135042/b66608060f92ce8f404efae6b2e5f9a2.png?size=1024",
+        "size": 1283,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 69,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dea30",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.612,
+          38.796
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "WHG PoGo",
+        "description": "WHG PoGo is a Discord chat server with 1,330 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/333656729495666699/264e1e2c16a156b7f7ad9add5fec1cd4.png?size=1024",
+        "size": 1330,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 70,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dea8f",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8437057,
+          35.2267873
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Charlotte",
+        "description": "Pokémon GO Charlotte is a Discord chat server with 4,537 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/300061526302392322/8a308784ede8ae461261535c177fbcd4.png?size=1024",
+        "size": 4537,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 72,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dee96",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.871546,
+          64.129017
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Iceland",
+        "description": "Pokemon Go Iceland is a Discord chat server with 1,939 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/363678639218360320/77b1b2032f1158c583df20b130cd0861.png?size=1024",
+        "size": 1939,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 74,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741def00",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.07022363,
+          51.05524438
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go YYC",
+        "description": "Pokemon Go YYC is a Discord chat server with 5,417 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/285185224915288065/da7c526a0b24bb7e4e9506f8f9659c80.png?size=1024",
+        "size": 5417,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 78,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df07d",
+        "slug_url": "741df07d",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPTgwNTI2MTc0LTgyNDItNGJmYy05OTZkLWQ1NTI4NzY4MDdjNCZpPXRydWU=",
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.112877,
+          30.69008
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "TRNR Mobile PoGo Discord",
+        "description": "TRNR Mobile PoGo Discord is a Discord chat server with 389 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/400839823675490305/86727d8e53b331578d0c815705e4380b.png?size=1024",
+        "size": 389,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 79,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df0db",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3696546,
+          29.76019
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Silph League - Houston",
+        "description": "Silph Road - Houston is the leading raid coordination server for the Greater Houston Area! Our dedicated Leadership members host local events each and every month, as we strive to build close-knit Pokemon Go communities. We welcome any and all Travelers abiding by the rules of The Silph Road to come join us on our journey!",
+        "image": "https://cdn.discordapp.com/icons/328730485922463744/a5eab6fc11277c37860a495441a1fad0.png?size=1024",
+        "size": 18907,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 80,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df13b",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4077972,
+          43.3168521
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PauGo et Alentours",
+        "description": "Global Discord for the Pokémon Go Community in Pau.",
+        "image": "https://cdn.discordapp.com/icons/348190130835554314/13976f0f4a345b448354aaa4ac48d07b.png?size=1024",
+        "size": 65,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 88,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df5e0",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.76390697,
+          41.13384902
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go - NP",
+        "description": "Discord for North Platte and surrounding areas",
+        "image": "https://cdn.discordapp.com/icons/353596844728909825/a9693cf11558fd5d5337da35586887d8.png?size=1024",
+        "size": 227,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 90,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df63a",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1008056,
+          32.3664322
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo Mabank/GBC TX",
+        "description": "PoGo Mabank/GBC TX is a Discord chat server with 85 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/347093804806832128/439e39cd8685b56fa4e8219164f548a8.png?size=1024",
+        "size": 85,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 91,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df694",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.19643688,
+          53.14467253
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Mansfield",
+        "description": "Mansfield is a Discord chat server with 205 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/308125668959322113/a98ac0cf79912beeaccb431a42081167.png?size=1024",
+        "size": 205,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 93,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df6fd",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73630727,
+          53.90503047
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Prince George Pokémon Go",
+        "description": "Friendly, team-agnostic server for the Prince George Pokemon Go Community",
+        "image": "https://cdn.discordapp.com/icons/350380914032771075/7c1286370da35af24d3090cb1d7804cf.png?size=1024",
+        "size": 1059,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 97,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df7ba",
+        "slug_url": "PrinceGeorgePoGo",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.858947,
+          39.2894373
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Charles Town Go Hub",
+        "description": "Charles Town Go Hub is a Discord chat server with 265 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/342742147394699267/7ac36c7686cad8422e6a3d0e87860851.png?size=1024",
+        "size": 265,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 98,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df83b",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.05430647,
+          40.0446072
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "NE Philly Raids",
+        "description": "NEPR is based out of Northeast Philadelphia. Established in August of 2017 we have built a friendly community for local and worldwide pokemon players to join. Our mission is to help each other defeat raids, establish a pvp community and make Pokemon Go a friendly environment for all in-person players. ",
+        "image": "https://cdn.discordapp.com/icons/348805454538866689/4e6409a1fbe49a96c9e9a7cfc52242d5.png?size=1024",
+        "size": 989,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 101,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df899",
+        "slug_url": "NEPhillyRaids",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0049152,
+          42.3869869
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "East of Boston Raids",
+        "description": "East of Boston Raids is a server primarily covering East Boston, Revere, Winthrop, Chelsea, and Everett. We are an open community, and welcome players of all teams, ages, and levels.",
+        "image": "https://cdn.discordapp.com/icons/341363014584369156/156f75cc5469e6c593aaf16e612530fb.png?size=1024",
+        "size": 727,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 102,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df8fa",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.309342,
+          32.589615
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Kaufman PoGo",
+        "description": "Kaufman PoGo is a Discord chat server with 41 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/367857074886934549/898ed9c0d4b7fd56fbbdda7d4735aaad.png?size=1024",
+        "size": 41,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 104,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df956",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.12645435,
+          46.2353387
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PEI Pokémon GO",
+        "description": "PEI Pokémon GO is a Discord chat server with 698 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/349199071254282245/a_e053a8dc85a5a5206d24e2010bae44a4.gif?size=1024",
+        "size": 698,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 106,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741df9b3",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.806627,
+          39.744412
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go Leiria",
+        "description": "Servidor da comunidade de Pokémon GO Leiria onde se organizam raids, trocas, eventos e muito mais!",
+        "image": "https://cdn.discordapp.com/icons/329321552241754115/36e13d168eb16c1ea3b3c33f873ee9f8.png?size=1024",
+        "size": 1434,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 109,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfa78",
+        "slug_url": "PoGoLeiria",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.12783661,
+          31.56031488
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Waco Gaming Server",
+        "description": "Come join the Waco PoGo group! We have channels for Raids, Community Day, Teams, and Music!",
+        "image": "https://cdn.discordapp.com/icons/343833708312395777/962a12c0137c779644380123b9ab0402.png?size=1024",
+        "size": 444,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 110,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfadb",
+        "slug_url": "WacoGaming",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95283807,
+          49.1724914
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokémonGo Chilliwack",
+        "description": "PokémonGo Chilliwack is a Discord chat server with 995 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/334419640233230337/e3f6ba190bc0022831050bd2a2266a8c.png?size=1024",
+        "size": 995,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 115,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfbea",
+        "slug_url": "Chilliwack",
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.407345,
+          39.6206612
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Thurmont, MD PoGo",
+        "description": "Thurmont, MD PoGo is a Discord chat server with 134 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/350391521180385292/37a05d035e92a717c90424721b4c2625.png?size=1024",
+        "size": 134,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 119,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfcf6",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.26337147,
+          52.39767947
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo Ely",
+        "description": "PoGo Ely is a Discord chat server with 426 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/337594782778130432/87f9400dbee69a1ab297267a310b7194.png?size=1024",
+        "size": 426,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 120,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfd49",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2134819,
+          32.21643195
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokeVille",
+        "description": "PokeVille is a Discord chat server with 240 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/311570654216323073/2f8b218aa8387c6bc63b15341c6fa908.png?size=1024",
+        "size": 240,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 121,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfda8",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.872308,
+          26.640628
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo SWFL",
+        "description": "Welcome to the PoGo SWFL Discord, proudly representing most of Lee County. We all love to play and raid together, and have hosted a Silph League meetup at each of our Community Day events. We'd love to have you join us and our community!",
+        "image": "https://cdn.discordapp.com/icons/339749657913720833/9cb84b6a587bbac4e5f3d8fe7ae7ee7a.png?size=1024",
+        "size": 2851,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 125,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfe5d",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.740392,
+          43.406924
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "BurlOakPoke",
+        "description": "BurlOakPoke is a Discord chat server with 261 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/364587987163676695/2a31f69d4c7ffbfd50ea84dfc05d9636.png?size=1024",
+        "size": 261,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 126,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741dfed9",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.053583,
+          32.37325
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Team Tucson Harmony",
+        "description": "Our main goals are helping Trainers & bringing the Pokemon GO Community together. Server Features include: Area Channels to help organize raids, Area Roles to help notify interested members of Legendary raids, Google Map Links posted in channel, Staff Roles that any member can join, Community Day Meetups, Nests & EX Location Channels & Maps, Trading & Research Channels, Friendly Members, Plus Much More!",
+        "image": "https://cdn.discordapp.com/icons/379344054770597910/60ddd79968345f6f59be53bc4ad8facb.png?size=1024",
+        "size": 553,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 127,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": 74100000000,
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.766846,
+          39.65103
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Allegany Co. MD, PoGo",
+        "description": "Allegany Co. MD, PoGo is a Discord chat server with 761 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/344278841189072896/684c985c5690768796cb49063e72d31b.png?size=1024",
+        "size": 761,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 128,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e023e",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89349,
+          43.594704
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Official Bay City Discord Server",
+        "description": "Welcome Trainers!! We would love to have you on our server! We do monthly drawings, raffle contests, and much more! To join via the Silph League Map, please email baycitypokemon@gmail.com and we will get you set up in the server. Thank you for your time, and we hope to hear from you 😊",
+        "image": "https://cdn.discordapp.com/icons/376218704335339530/fd0fe0afff6bcf5acf0e563246addff0.png?size=1024",
+        "size": 1221,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 0,
+        "communityId": 130,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e02fc",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8578,
+          51.52974
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Sask Pokémon Go",
+        "description": "Sask Pokémon Go is your discord server for the entire province of Saskatchewan! We hold regular Silph Arena PvP tournaments played remotely! Join us, for PvP, remote raids, or just chatting about all things PokémonGo!",
+        "image": "https://cdn.discordapp.com/icons/336179715658219520/5802672780fa3df18037bb527d38bb8b.png?size=1024",
+        "size": 587,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 136,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e04a6",
+        "slug_url": "SaskPokemonGo",
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0228331,
+          29.2108147
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO - Daytona Area",
+        "description": "Pokémon GO - Daytona Area is a Discord chat server with 665 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/352867347620429835/324baa08b4aa552eaed1b3e76efd8ec5.png?size=1024",
+        "size": 665,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 137,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e04fc",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30447,
+          49.050438
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo Abbotsford",
+        "description": "PoGo Abbotsford is a Discord chat server with 1,361 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328757788555870208/9e9007921494074c8cb063c95c6be5f8.png?size=1024",
+        "size": 1361,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 20,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 138,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0552",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51272254,
+          39.10185227
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Tri-State Raiders Alliance",
+        "description": "Community-ran Cincinnati Discord.  Join and select your team!  (!valor, !instinct, or !mystic)",
+        "image": "https://cdn.discordapp.com/icons/284441185706311680/ac25b5e6738b2908a60942e3ef6d9d37.png?size=1024",
+        "size": 1411,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 140,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e060c",
+        "slug_url": "TristateRA",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.511158,
+          50.43046
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go Torbay",
+        "description": "Pokémon Go Torbay is a Discord chat server with 272 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/341632375396106263/8ca2e77f9fbf516f0bb6343b30791be8.png?size=1024",
+        "size": 272,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 142,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0668",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6488593,
+          40.9375565
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "ii",
+        "description": "ii is a Discord chat server with 100 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/344018456523571200/aaa11b52f52b26becdeb9852e72cc390.png?size=1024",
+        "size": 100,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 143,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e06c0",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.700995,
+          38.335683
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémans GO",
+        "description": "Sonoma County",
+        "image": "https://cdn.discordapp.com/icons/303572333740949504/74640d3a04c8545635a136222a5705d2.png?size=1024",
+        "size": 950,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 146,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e078d",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2748549,
+          50.2599138
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Vernon Raids",
+        "description": "Vernon Raids is a Discord chat server with 153 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/339119009393934336/97422ad411708bed3920f0b9f7059832.png?size=1024",
+        "size": 153,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 147,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e07e9",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9445711,
+          32.7292398
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go - Gilmer, Texas",
+        "description": "Pokémon Go - Gilmer, Texas is a Discord chat server with 122 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/331557788268625930/0e048d409f0c3c0cf546aadf8be1b39a.png?size=1024",
+        "size": 122,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 148,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e085c",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6187402,
+          41.88270223
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "DTC Pokémon GO",
+        "description": "Founded in 2016, DTC represents the Chicagoland Pokémon GO community in the city and northern suburbs. ",
+        "image": "https://cdn.discordapp.com/icons/272426039693672448/a_15bf27d99e2edab06321c39ba01d3e9a.gif?size=1024",
+        "size": 8239,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 20,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 151,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0963",
+        "slug_url": "dtcpkmngo",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWMwMjQ1ZDIyLWJlYzQtNDhmZi05MWE3LWUzYTlhZjIwMzkzZSZpPXRydWU=",
+        "rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4455344,
+          42.8713032
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pocatello Pokemon Go",
+        "description": "Pocatello Pokemon Go is a Discord chat server with 1,391 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/345033041921703937/83765abd3f7821780fab8b15d34b6551.png?size=1024",
+        "size": 1391,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 152,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e09bd",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5968439,
+          51.45354
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go Bristol (UK)",
+        "description": "Pokémon Go Bristol (UK) is a Discord chat server with 1,767 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/253603947527274506/f46d8a3ec39a44346a0a9223c1c50316.png?size=1024",
+        "size": 1767,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 154,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0a77",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.022771,
+          42.295507
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO - Windsor, Ontario",
+        "description": "Pokémon GO - Windsor, Ontario is a Discord chat server with 432 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/307663244808552449/a5940e8ab004997ff9507961c2ed30df.png?size=1024",
+        "size": 432,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 155,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0ad5",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51948524,
+          33.93811737
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "POKEMON GO LEAGUE: MARIETTA REGION",
+        "description": "POKEMON GO LEAGUE: MARIETTA REGION is a Discord chat server with 674 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/361572102509166592/4c58cf9f31b1b7f0b7c15886a20514a5.png?size=1024",
+        "size": 674,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 156,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0b2d",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8376906,
+          33.9259766
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "DALLAS GA POKEMON GO",
+        "description": "DALLAS GA POKEMON GO is a Discord chat server with 102 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/355820424648589312/be287e26615e66b201257065abaf5aa1.png?size=1024",
+        "size": 102,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 159,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0c3d",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0410388,
+          41.525441
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Greater Waterbury Pokemon Go CT",
+        "description": "Greater Waterbury Pokemon Go CT is a Discord chat server with 670 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/358830960382574595/11b1e620ce793afa751ce4f44a639a8c.png?size=1024",
+        "size": 670,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 160,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0c93",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113,
+          52
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "AB PoGo",
+        "description": "AB PoGo is a Discord chat server with 262 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/394359551115132931/b2efa256da50d373a3b24514e8e83c74.png?size=1024",
+        "size": 262,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 161,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0ce8",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.578418,
+          40.764507
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go: Nassau County",
+        "description": "Covering all of Nassau County",
+        "image": "https://cdn.discordapp.com/icons/339074243838869504/b3704d4a6466d68bfc8c086bdaf86274.png?size=1024",
+        "size": 1452,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 162,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0d43",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.641449,
+          52.401982
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokemonGO Haarlem",
+        "description": "PokemonGO Haarlem is a Discord chat server with 401 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/337243807831818240/a1969fd449ad789066bcc63aed0ba744.png?size=1024",
+        "size": 401,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 163,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0da0",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.414748,
+          34.747519
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Jacksonville NC Raid Group",
+        "description": "Pokemon Go Jacksonville NC Raid Group is a Discord chat server with 205 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/344219061749809163/1eca24ea87a5161da516578aebaa2b29.png?size=1024",
+        "size": 205,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 164,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0dfa",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.466492,
+          38.3352265
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "SoMDTrainers",
+        "description": "SoMDTrainers is a Discord chat server with 1,413 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/336503410255986698/345c4106f03b5759820b2469e16804e5.png?size=1024",
+        "size": 1413,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 166,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0ea9",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339246,
+          48.412038
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Skagit PoGo",
+        "description": "Welcome trainers to the Skagit area! Please join us for raiding and catching rare pokemon! Most of all make a friend or two, you won't be disappointed!",
+        "image": "https://cdn.discordapp.com/icons/340013662213373953/a9c3b6d3f8d93e0db0f0a47c00a65a48.png?size=1024",
+        "size": 1026,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 168,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0f09",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.394519,
+          51.361213
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Thanet",
+        "description": "Our mission is to provide a safe, friendly, and positive place where fellow Pokémon Go trainers can coordinate activities and grow as a community! We are a group of legitimate catching players. We have been known to use trackers, maps, and bots for finding Pokémon. Evidence or encouragement of spoofing/botting in order to use gyms or catch will result in a ban. We are not banning multi-accounters from this server.",
+        "image": "https://cdn.discordapp.com/icons/319811219093716993/423e7d49a726589846b27ca09639badd.png?size=1024",
+        "size": 801,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 169,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0f6e",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3912385,
+          43.662384
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Raids Toronto",
+        "description": "Coordinate PoGO raids in the Greater Toronto Area here!",
+        "image": "https://cdn.discordapp.com/icons/328830080040042497/a66744e161a7bbda7d7f00d8ffe36571.png?size=1024",
+        "size": 14216,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 170,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e0fd6",
+        "slug_url": "toronto-raids",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67995617,
+          41.76539749
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "CT  Raids",
+        "description": "Connecticut's largest Pokemon Go Community. Est. 2017.",
+        "image": "https://cdn.discordapp.com/icons/326481569743110144/92f498e240a6c543f69680a95bc9a955.png?size=1024",
+        "size": 9253,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 172,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e10ca",
+        "slug_url": "CTRaids",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWYyYWNkMTIxLTM5ODMtNGI0MS05NzIxLTA5OGUwYTlhZmRlZSZpPXRydWU=",
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.144111,
+          51.554355
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO - NW5",
+        "description": "Pokémon GO - NW5 is a Discord chat server with 436 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/331448299062296576/797f0122a0d0ee50519c0b2569070807.png?size=1024",
+        "size": 436,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 174,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e11c0",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93580775,
+          42.08227906
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokémonGO Southeast MA",
+        "description": "PokémonGO Southeast MA is a Discord chat server with 2,173 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328976394203955210/2ec5c74b9ee3f42846072f3acf44b728.png?size=1024",
+        "size": 2173,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 175,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1257",
+        "slug_url": "SoutheastMA",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81336403,
+          36.14967503
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Nashville Pokemon Go",
+        "description": "Invite Code: discord.gg/ju9dSeS",
+        "image": "https://cdn.discordapp.com/icons/333153715898941444/2f869085291bcb4e6d1536e2ab962e69.png?size=1024",
+        "size": 4898,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 176,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e12e0",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.845673,
+          40.785696
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Poppenhusen",
+        "description": "Poppenhusen is a Discord chat server with 44 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/329597907013730305/8eb67af6994fd1e57f1229750294aa64.png?size=1024",
+        "size": 44,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 178,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e133d",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          41.23
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGoMOWS",
+        "description": "PoGoMOWS is a Discord chat server with 1,537 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/330075289117917184/adefc3cb795b9d4bf6701e397935497d.png?size=1024",
+        "size": 1537,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 179,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e139e",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.549063,
+          42.346736
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "MarlboroughMA PokemonGO",
+        "description": "MarlboroughMA PokemonGO is a Discord chat server with 568 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328886804247740418/1aae13412a0afa716c769d0e719b50e3.png?size=1024",
+        "size": 568,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 180,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1404",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07884005,
+          51.79982111
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Hertford",
+        "description": "Hertford is a Discord chat server with 430 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/339314988000739339/e6823a2059b78e47a18d5d8c8ccaf3e8.png?size=1024",
+        "size": 430,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 182,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1460",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.443855,
+          40.495649
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Team Mystic NJ",
+        "description": "Team Mystic NJ is a Discord chat server with 2,258 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/280590823505002498/916d01f041e72da55fe7b30b6eb88642.png?size=1024",
+        "size": 2258,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 184,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e151d",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.320776,
+          25.7807
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Miami Pokémon Masters",
+        "description": "Miami Pokémon Masters is a Discord chat server with 6,061 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/346074434958000128/f806d23c675e9ac81bf411587e3ef171.png?size=1024",
+        "size": 6061,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 186,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e15dc",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1005002,
+          41.2632482
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Omaha PoGo Raids",
+        "description": "Omaha PoGo Raids is a Discord chat server with 1,451 members.The community has hosted no local Silph League meetups yet and  is  not currently welcoming new members.",
+        "image": "https://cdn.discordapp.com/icons/330502171177254915/3726ab67f4ff788213ec3e2240ea9334.png?size=1024",
+        "size": 1451,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 0,
+        "communityId": 190,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1754",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1491169,
+          43.6599302
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Go Cagnes !",
+        "description": "Go Cagnes ! is a Discord chat server with 244 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/361102609295212555/5127e1df16f9696209de141cf7fb4ba0.png?size=1024",
+        "size": 244,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 191,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e17aa",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95216299,
+          40.63308698
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Thessaloniki",
+        "description": "Pokémon GO Thessaloniki is one of the largest Pokémon GO communities in Greece, with over 700 active trainers! Our Discord server includes a plethora of channels dedicated to coordinating Raids, reporting Field Research tasks, trading Pokémon, and more! International players visiting Thessaloniki are very welcome to our community, and receive a special role upon joining!",
+        "image": "https://cdn.discordapp.com/icons/328181229276889094/a_49d2c033384a7692b59f5868f74a87b1.gif?size=1024",
+        "size": 1884,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 192,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1805",
+        "slug_url": "741e1805",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPTUzNjBhZmZmLTIyNTgtNDgyYS04ZThhLTExNjViOWU3MGQ1ZCZpPXRydWU=",
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288538,
+          54.685244
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGoLt",
+        "description": "Vilnius, Kaunas, Klaipeda and other 40 Lithuania cities! Join us now: pogolt.tk",
+        "image": "https://cdn.discordapp.com/icons/293465392951853058/01c5fd1d2c25faf92c0326fde4459d34.png?size=1024",
+        "size": 3206,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 5,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 195,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1a41",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36484908,
+          28.55352543
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Orlando Raids",
+        "description": "Welcome to Orlando Raids, the largest Pokémon Go community in Florida!",
+        "image": "https://cdn.discordapp.com/icons/327208675372695552/a_9f0c05745093740ad150b851c50211f8.gif?size=1024",
+        "size": 15116,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 196,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1aa2",
+        "slug_url": "orlandoraids",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPTYwZWRlZTBkLWQ5NjMtNGQ1MS1iY2U0LTJmYjA2YTQxNGU5YyZpPXRydWU=",
+        "rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8138,
+          53.30467
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go North Wales",
+        "description": "Pokemon Go North Wales is a Discord chat server with 418 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/338763203280633856/792f2f4987f6e8ad100e59404d185ead.png?size=1024",
+        "size": 418,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 197,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1b03",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0125,
+          42.3379
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Raid Massachusetts",
+        "description": "Pokemon Go Raid Massachusetts is a Discord chat server with 4,853 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328896578876211200/40c2497418feda8acf6d755207061045.png?size=1024",
+        "size": 4853,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 198,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1b5c",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.72000576,
+          51.03668309
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Gent",
+        "description": "Community voor en door Pokémon Go spelers in Gent. Kom hier alles te weten over onze community en doe mee met Raid hour, PvP toernooien, meetups en zoveel meer!",
+        "image": "https://cdn.discordapp.com/icons/328933962296590371/a_a51c00f3c2ce725ac151b28d1017f7f8.gif?size=1024",
+        "size": 3836,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 201,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1bb8",
+        "slug_url": "POGOGENT",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWMwYTI3ZTgwLTkxMmItNDlmMy1iNzViLTM3OWZjOGZlNjcwOSZpPXRydWU=",
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24345076,
+          52.57262527
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Peterborough UK",
+        "description": "The Official Pokémon GO Peterborough community! The best place to organise raids across the city, discuss the game, find PvP tournaments, and join in with community meetups and events. Also lots of other awesomeness with help from experienced players, tips for raids and gameplay, along with Pokéstop submission help. Come join the fun!!",
+        "image": "https://cdn.discordapp.com/icons/340533117611671573/b6d788c2c22ca5b0cc682748e6856776.png?size=1024",
+        "size": 1517,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 10,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 203,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1c77",
+        "slug_url": "peterboroughuk",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWQ4NGM4NDdjLWI0NjAtNDEyNi05NmZiLTU1MDRiZDkzZDVjYSZpPXRydWU=",
+        "rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0729866,
+          34.10327656
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "SGV PoGo",
+        "description": "SGV PoGo is a Discord chat server with 2,499 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328280846601814017/7bf312aed05cc304462557b94d26724d.png?size=1024",
+        "size": 2499,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 204,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1cd1",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9929511,
+          40.4810705
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "POGO BLONO | The Go Group",
+        "description": "The Official Discord for the Bloomington Normal, Illinois Pokemon Go Community",
+        "image": "https://cdn.discordapp.com/icons/349195539281215488/89646c93f7e55aa6e895a8419f919ebe.png?size=1024",
+        "size": 596,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 205,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1d31",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13046996,
+          49.88729668
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PegCity Pokémon GO",
+        "description": "PegCity Pokémon GO is a Discord chat server with 6,716 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/318063226862567426/3775a3febfc1b1fad828405298a8de65.png?size=1024",
+        "size": 6716,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 206,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1d8f",
+        "slug_url": "pegcitypogo",
+        "campfire_url": "https://campfire.onelink.me/eBr8?deep_link_sub1=cj1jbHVicyZjPWQ5Zjg5M2IzLTA1NTctNDEyZi04YjI4LTk3NmFjYzlkYTQ0MCZpPXRydWU=",
+        "rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7981,
+          42.18752
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Team North Shore Chicago",
+        "description": "Pokemon Go Team North Shore Chicago is a Discord chat server with 529 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/304763551611092992/fe21ac0cfa3a44d5c96b3bc94c7c2ae7.png?size=1024",
+        "size": 529,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 207,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1deb",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.187107,
+          40.419633
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Perry County Pokemon Go",
+        "description": "Perry County Pokemon Go is a Discord chat server with 166 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/349731137456963584/7d5fba6e0a74998b350d6b242cca5a31.png?size=1024",
+        "size": 166,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 208,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1e40",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1994042,
+          38.6270025
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Saint Louis Pokemon GO Center",
+        "description": "Saint Louis Pokemon GO Center is a Discord chat server with 1,860 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/334365632734691329/8b80c622000889880d06534b00b17368.png?size=1024",
+        "size": 1860,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 209,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1e9a",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.132387,
+          40.477915
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Raiders - Kokomo",
+        "description": "Pokemon Go Raiders - Kokomo is a Discord chat server with 917 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/334343209276669954/ca5b527265367e0a72015538e71186d6.png?size=1024",
+        "size": 917,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 210,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1ef3",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.288781,
+          43.666826
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Upper Valley PoGO",
+        "description": "Upper Valley PoGO is a Discord chat server with 815 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/335525695184699403/743b3e0cfbfb8b6b107d00a7d65c511e.png?size=1024",
+        "size": 815,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 212,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1f4c",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00257704,
+          40.44074645
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon GO Pittsburgh",
+        "description": "PGP covers the greater Pittsburgh area including all of Allegheny and Westmoreland Counties. We employ a homemade custom user-reported raid bot. See our coverage map: https://goo.gl/PBjWv5 All teams and levels welcome!",
+        "image": "https://cdn.discordapp.com/icons/327185239535386627/56701e5b8d7be5755a8185033887e19c.png?size=1024",
+        "size": 11097,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 213,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e1fa5",
+        "slug_url": "PokemonGOPittsburgh",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.10062,
+          29.51266
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Poké Go - Clear Lake +",
+        "description": "Poké Go - Clear Lake + is a Discord chat server with 1,952 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/333592829232414720/804e13061b42dd9745ceaad66b73ba6a.png?size=1024",
+        "size": 1952,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 216,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e206f",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.416667,
+          51.133333
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Deutschland",
+        "description": "A German Pokémon GO community. We welcome all levels and all teams!",
+        "image": "https://cdn.discordapp.com/icons/329588201343680523/22b1ca011f375083fb2255a9314a047a.png?size=1024",
+        "size": 10195,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 217,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e20cb",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083887,
+          50.775346
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo Aachen",
+        "description": "PoGo Aachen is a Discord chat server with 2,383 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/276517107766919178/7025089ba13e3c0886410b2d153cdb46.png?size=1024",
+        "size": 2383,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 221,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e21da",
+        "slug_url": "aachen",
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9878208,
+          46.3158992
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon GO Group Oberwallis",
+        "description": "Pokemon GO Group Oberwallis is a Discord chat server with 150 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328244557760299009/e0b2196d15ce5c17bdeaf6d5f16b1176.png?size=1024",
+        "size": 150,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 222,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2237",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.17236524,
+          52.0462133
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO • Ipswich, UK",
+        "description": "Pokémon GO • Ipswich, UK is a Discord chat server with 1,631 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/330769943568056343/bef62af819043b2be63221bba1f31983.png?size=1024",
+        "size": 1631,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 223,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e228e",
+        "slug_url": "ipswich",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6188943,
+          50.4452112
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Regina Pokémon GO",
+        "description": "Regina Pokémon GO is a Discord chat server with 296 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/355456413646192642/3b17d86450c0265658d04dd0d9e4b8a1.png?size=1024",
+        "size": 296,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 224,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e22e8",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7482,
+          51.6286
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PokemonGo - High Wycombe",
+        "description": "PokemonGo - High Wycombe is a Discord chat server with 620 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328607797774254092/749c5a51edbf39d2a260ec4e9f6eab5c.png?size=1024",
+        "size": 620,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 226,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2399",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1318632,
+          36.1034126
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Clinton/ClaxtonPoGo",
+        "description": "Clinton/ClaxtonPoGo is a Discord chat server with 30 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/380110745381109780/eab424088b7afda653e1182dd4b20c20.png?size=1024",
+        "size": 30,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 227,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2403",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2620435,
+          44.5645659
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go Corvallis",
+        "description": "Pokemon Go Corvallis is a Discord chat server with 1,992 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/340149384266121220/af21b1dda43868f937a93e0430901e1f.png?size=1024",
+        "size": 1992,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 228,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2461",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.726979,
+          45.192284
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pogo Grenoble",
+        "description": "Serveur dédié aux joueurs de Grenoble, ceux des alentours sont les bienvenus également !",
+        "image": "https://cdn.discordapp.com/icons/283348506091978763/b6261e468058a44ab5627c45c0d96e3f.png?size=1024",
+        "size": 1406,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 229,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e24b9",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61320803,
+          54.97399359
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Hub NE",
+        "description": "Join us in playing Pokemon all over the North East!",
+        "image": "https://cdn.discordapp.com/icons/334826768521363466/d3d2440116b6bde38c25a83f088fb1d9.png?size=1024",
+        "size": 3996,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 231,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e256b",
+        "slug_url": "newcastle",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.97557869,
+          37.34099784
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go: San Jose",
+        "description": "The Pokemon Go server for the south bay.",
+        "image": "https://cdn.discordapp.com/icons/205208433769578498/a_02c16379a685318e47f4f52ae2d60a4d.gif?size=1024",
+        "size": 18940,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 232,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e25df",
+        "slug_url": "pogosj",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.951725,
+          40.327875
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Berks PA",
+        "description": "Pokémon GO Berks PA is a Discord chat server with 2,167 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/321450984624881675/a_c939753eb90386bdd995606d1a8c75d6.gif?size=1024",
+        "size": 2167,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 5,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 235,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e27a8",
+        "slug_url": "BerksPA",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.36436558,
+          40.31356679
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Franconia Pokémon Go",
+        "description": "Franconia Pokémon Go is a Discord chat server with 454 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/333710696061730827/1fbd5fa135a6918309cba16abf33c333.png?size=1024",
+        "size": 454,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 238,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e28c1",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4082,
+          38.4221
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Mystic Mayhem",
+        "description": "Mystic Mayhem is a Discord chat server with 25 members.The community has hosted no local Silph League meetups yet and  is  not currently welcoming new members.",
+        "image": "https://cdn.discordapp.com/icons/380761306887880704/65493246ad94d3f02a5e24f881d33e0e.png?size=1024",
+        "size": 25,
+        "valor": 0,
+        "instinct": 0,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 0,
+        "communityId": 240,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2976",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4522264,
+          40.5032004
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Official Rutgers Pokémon Club",
+        "description": "Come raid with the Scarlet DragoKnights! All teams, skill levels, and University affiliations welcomed (including no affiliation!) Join us every Community Day in Johnson Park or on our trips to NYC and Red Bank Battlefield park! We look forward to raiding with you soon!\n(Trip attendace may require certain Rutgers affiliation)",
+        "image": "https://cdn.discordapp.com/icons/277296577469612033/aaf7e8f29db3b2b8feed1ba30b57f62f.png?size=1024",
+        "size": 2274,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 241,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e29d3",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.197362,
+          30.0379295
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokemon Go - Kingwood / Atascocita / Humble / Porter",
+        "description": "Pokemon Go - Kingwood / Atascocita / Humble / Porter is a Discord chat server with 2,545 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/327629924758454274/5cc360ade8a07ce8bf346720cdd877a7.png?size=1024",
+        "size": 2545,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 242,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2a47",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78007078,
+          44.30896199
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Augusta, ME POGO",
+        "description": "Augusta, ME POGO is a Discord chat server with 101 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/351471426336718849/86de60b99bc0ff16e0b533fa84144ad5.png?size=1024",
+        "size": 101,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 246,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2bc4",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.616988,
+          42.026438
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Ames Pokemon Go",
+        "description": "Raiding, Hunting, and general info for Ames, Iowa players.  No bots in Discord, but 2 scanners available off-site.  Play as you wish.",
+        "image": "https://cdn.discordapp.com/icons/302099583818006531/df870d4c2707c88895452d5b41cef9cd.png?size=1024",
+        "size": 2649,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 247,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2c20",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4694345,
+          53.3799749
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go - Sheffield UK",
+        "description": "Pokémon Go - Sheffield UK is a Discord chat server with 2,360 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/336845117358997504/b1a7cf56ae364c0cbf8cb36a70abd1a4.png?size=1024",
+        "size": 2360,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 248,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2c8b",
+        "slug_url": "SheffieldPoGo",
+        "campfire_url": null,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6567697,
+          41.556741
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go Middletown CT",
+        "description": "Come Raid, enjoy contests and giveaways with us here in Middletown Ct!",
+        "image": "https://cdn.discordapp.com/icons/340850519989813249/50f3859205f2414bc8f1eb99f65e0dae.png?size=1024",
+        "size": 735,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 254,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2f46",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28747044,
+          40.69778716
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Beaver County Pokemon Go",
+        "description": "Beaver County Pokemon Go is a Discord chat server with 1,037 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/354732066014887937/e796a7e9f8bbacb2d2beb42147bbc587.png?size=1024",
+        "size": 1037,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 255,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e2fb6",
+        "slug_url": "BeaverCountyPA",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.396285,
+          33.775618
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "GT Pokémon GO",
+        "description": "GT Pokémon GO is a Discord chat server with 2,087 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/299297132010274816/d7a1f58a1b63e1baf6686bec04518384.png?size=1024",
+        "size": 2087,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 257,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e3077",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.643,
+          33.148
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Plano PoGo: Team Harmony",
+        "description": "Plano PoGo: Team Harmony is a Discord chat server with 2,750 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/328172248240226307/f3e0c72e715c111622e73d82a04e1bec.png?size=1024",
+        "size": 2750,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 258,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e30d6",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.437058,
+          43.871814
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Nyaro's Test Server",
+        "description": "Nyaro's Test Server is a Discord chat server with 11 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/349326111525699584/eda6c9e195538c2cce6f494ce4c536c4.png?size=1024",
+        "size": 11,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 261,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e318a",
+        "slug_url": "NyaroTestServer",
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43751714,
+          43.87028302
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Richmond Hill Pokemon Go",
+        "description": "Richmond Hill Pokemon Go is a Discord chat server with 2,263 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/339477897532145664/231fd9e967b1413c00846e68070649b4.png?size=1024",
+        "size": 2263,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 262,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e31f4",
+        "slug_url": "RichmondHill",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.624359,
+          40.576747
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Somerset County Pokemon Go",
+        "description": "Somerset County Pokemon Go is a Discord chat server with 1,927 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/370733856761970689/36452a97ee72783306446190d4292079.png?size=1024",
+        "size": 1927,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 263,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e324e",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3288462,
+          48.4677961
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go Timmins",
+        "description": "Pokémon Go Timmins is a Discord chat server with 428 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/346468641337901067/03141bfac0600ef142b3ae35dfc46ea9.png?size=1024",
+        "size": 428,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 264,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e32a6",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70046,
+          41.939488
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PNR",
+        "description": "Give me your tired, your poor, your huddled masses yearning to raid free. EST. 2017",
+        "image": "https://cdn.discordapp.com/icons/329012667601780739/cbda83565aaded3b36e1e607f230e794.png?size=1024",
+        "size": 4286,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 265,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e3300",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.558012,
+          37.109763
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "KokonutKrew",
+        "description": "Raid with us! Read the help channel in discord for more information. We are an active raiding community as well as a strong online streaming community. See you soon! Visit our store and learn more by visiting http://kokonutkrew.com/streamers.",
+        "image": "https://cdn.discordapp.com/icons/185962326938222592/41a6780db6da44e203821006b1d56bb0.png?size=1024",
+        "size": 334,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 1,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 267,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e335f",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.64679,
+          36.329067
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Hanford Pokemon Go Raid Group",
+        "description": "Hanford Pokemon Go Raid Group is a Discord chat server with 887 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/346101569269530625/453548516ba64c39c2623624a54c0332.png?size=1024",
+        "size": 887,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 269,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e33d2",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1183176,
+          51.4564404
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon GO Bexley",
+        "description": "Welcome to Pokémon GO Bexley! If you’ve seen lots of Trainers at Danson Park on Community Day - that’s us! We are a large friendly community covering the entire London Borough of Bexley. \r\n\r\nOur goal is to help you find fellow Trainers in your area, activate EX Raids in Bexley, make new friends and promote healthy competition. Join our group for Raids, EX Raids, Community Days, competitions, news, nest locations across the borough and more! Trainers of all levels and ages welcome.",
+        "image": "https://cdn.discordapp.com/icons/248518377843326976/a_65e5ce41bc7974f20b578bb1c98c5519.gif?size=1024",
+        "size": 653,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 271,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e3491",
+        "slug_url": "PokemonGoBexley",
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4784621,
+          42.73416
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PlattevillePokemap",
+        "description": "PlattevillePokemap is a Discord chat server with 278 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/314733127027130379/570087ac78a47464811a718ae15f73b7.png?size=1024",
+        "size": 278,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 273,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e34f7",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.928208,
+          33.987232
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Rowland & Hacienda Heights Raiders",
+        "description": "Rowland & Hacienda Heights Raiders is a Discord chat server with 1,714 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/392549202938560514/584cf3f27a105b4121c244f694801b56.png?size=1024",
+        "size": 1714,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 274,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e3550",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.125045,
+          42.446561
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PGO Detroit",
+        "description": "The Original and Biggest Metro Detroit Group",
+        "image": "https://cdn.discordapp.com/icons/303247773333979136/eb0ef34c0d5d9b579b9a90bac24e26e5.png?size=1024",
+        "size": 16700,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 275,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e35aa",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.66132545,
+          42.50039865
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Dubuque Area PoGo",
+        "description": "Dubuque Area PoGo is a Discord chat server with 1,022 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/313616029920264192/65e4ac7c2f4848c811ced56b00af3ec2.png?size=1024",
+        "size": 1022,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 277,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e360a",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9532299,
+          32.58489074
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PoGo DFW South",
+        "description": "Welcome to PoGo DFW South! Currently covering Cedar Hill, Ennis, Lancaster, Mansfield, Midlothian, Pleasant Grove, Red Oak and Waxahachie!\n\nPlease tell your friends that play in the area and invite them. Use the various city channels to discuss rare spawns, raids and form groups. Hang out in the general channel to chat about your adventures, post funny Pokemon related pictures or whatever else you want within reason. Bullies and trolls will be banned. Have fun and spread the word!",
+        "image": "https://cdn.discordapp.com/icons/341311765046362124/aa2750efeaa983ecaee7e1b88e8d6b88.png?size=1024",
+        "size": 1072,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 278,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e3667",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.66120341,
+          39.93745841
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Rt30Raids&Sightings",
+        "description": "Rt30Raids&Sightings is a Discord chat server with 644 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/343017758528634881/ac2837da1e2040782b0302279eeb5629.png?size=1024",
+        "size": 644,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 280,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e3724",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3541667,
+          41.869077
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "TSR Rhode Island",
+        "description": "The Rhode Island chapter of The Silph Road. Event organization, information sharing, player networking, and charitable giving. Collaborates with Rhode Island Pokémon Go (https://discord.gg/EBzPhaE) for raid coordination and Community Days.",
+        "image": "https://cdn.discordapp.com/icons/377515857343021056/569c42c7e3b7e8e92185263f81755d93.png?size=1024",
+        "size": 249,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 283,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e383c",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99299192,
+          46.48994263
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "NorthOntario PoGo",
+        "description": "NorthOntario PoGo is a Discord chat server with 778 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/308178910586077184/e3fc9f70a970759955e19eb67fc3ed1b.png?size=1024",
+        "size": 778,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 285,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e38a4",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8937585,
+          38.992556
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "PG County PoGo",
+        "description": "PG County PoGo is a Discord chat server with 1,984 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/329360240602513410/f4a3ebe4dcb3db57d87137ae5812cd23.png?size=1024",
+        "size": 1984,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 0,
+        "accepting_invite_requests": 1,
+        "communityId": 286,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e38fb",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.393967,
+          43.605847
+        ]
+      },
+      "properties": {
+        "type_id": 3,
+        "title": "Pokémon Go: Treasure Valley *Official*",
+        "description": "Pokémon Go: Treasure Valley *Official* is a Discord chat server with 4,345 members.The community has hosted no local Silph League meetups yet and  is welcoming new members!",
+        "image": "https://cdn.discordapp.com/icons/326967098016399362/119a039e65f8a21a9b1bd814aa153cdc.png?size=1024",
+        "size": 4345,
+        "valor": 1,
+        "instinct": 1,
+        "mystic": 1,
+        "min_player_level": 0,
+        "has_scanners": 1,
+        "accepting_invite_requests": 1,
+        "communityId": 287,
+        "has_invite_url": false,
+        "invite_url": "#",
+        "hasDiscordAcctLinked": false,
+        "userDiscordIdentifier": "",
+        "pastEvents": [],
+        "futureEvents": [],
+        "slug": "741e39a6",
+        "slug_url": null,
+        "campfire_url": null,
+        "rank": 3
+      }
+    }
+  ]
+}
