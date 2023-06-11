@@ -1,2 +1,2 @@
-# uMapData
-Expiremental way to manage Map Data on our community map page.
+# Pokemon GO Communities Reference
+Export of SilphRoad data before website is completely gone/unusable;  
