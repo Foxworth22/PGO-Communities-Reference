@@ -1,0 +1,5 @@
+// https://community.esri.com/t5/arcgis-javascript-maps-sdk-questions/filter-a-geojson-layer-by-one-property/m-p/1058350
+
+let filteredFeatures = myFeatureCollection.features.filter(function (feature) {
+  return feature.has_invite_url == "true";
+});
